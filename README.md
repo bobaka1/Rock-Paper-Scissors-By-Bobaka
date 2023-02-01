@@ -1,2 +1,2 @@
 # Rock-Pape-Scissors-By-Bobaka
- A digital varsion of the classical game.
+ A digital version of the classical game.
